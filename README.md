@@ -72,20 +72,28 @@ https://nada-mahrous.github.io/Persoal-Portfolio/
 
 ---
 
-# 📂 Project Structure
+# 🎯 Website Sections
+🏠 Hero Section
+👩‍💻 About Me
+🛠️ Skills
+💼 Portfolio
+📈 Experience
+💬 Testimonials
+📞 Contact
+🔻 Footer
 
-```bash
-Persoal-Portfolio/
-│
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   │
-│   ├── js/
-│   │   └── main.js
-│   │
-│   └── imgs/
-│
-├── index.html
-│
-└── README.md
+---
+
+# 📱 Responsive Design
+
+The website is fully responsive on:
+
+💻 Desktop
+📱 Tablet
+📲 Mobile Devices
+
+---
+
+# ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub!
