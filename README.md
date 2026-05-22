@@ -36,7 +36,7 @@ https://nada-mahrous.github.io/Persoal-Portfolio/
 
 <div align="center">
 
-![Portfolio Preview](./assets/imgs/portfolio-preview.png)
+![Portfolio Preview](portfolio-preview.png)
 
 </div>
 
